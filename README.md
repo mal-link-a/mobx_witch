@@ -1,3 +1,5 @@
+Простенький проект по освоению MobX. На первый взгляд, стор простой, функциональный и удобный, и с ним справится даже ребёнок.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
